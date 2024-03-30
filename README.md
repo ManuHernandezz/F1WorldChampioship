@@ -1,4 +1,7 @@
 # F1WorldChampioship
+<img src="https://github.com/ManuHernandezz/F1WorldChampioship/assets/130862652/c8e02840-aa3b-431d-8c1f-dc97f4d4b8bf" width="150" height="150">
+
+
 This SQL project involves various queries analyzing Formula 1 data, including race results, driver standings, and constructor performances.
 
 ### 1)¿Cuántos circuitos hay en cada país?
